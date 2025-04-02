@@ -24,7 +24,7 @@ This project is a part of the **[freeCodeCamp](https://www.freecodecamp.org/)** 
 
 ## 🌐 Live Demo
 You can play the game here:  
-🔗 [Live Demo] (https://abhishekdevelops.github.io/Rock-Paper-Scissors-game/)
+🔗 [Live Demo] (https://abhishekdevelops.github.io/Rock-Paper-Scissors-Game/)
 
 ---
 
